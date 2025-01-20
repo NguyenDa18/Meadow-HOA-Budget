@@ -1,0 +1,28 @@
+Category,ID,Actual,Budget,Type
+Assessment,4001,157629.44,155148,Income
+
+Insurance,6061,14701.01,14250,Expense
+Licenses & Fees,6081,75,75,Expense
+Gutter/Downspout,6213,1850,2500,Expense
+Pest Control,6290,1696,1600,Expense
+Dryer Vent Cleaning,6297,0,2200,Expense
+Fire Inspection,6401,85,75,Expense
+Property Maintenance,6661,9327.95,5150,Expense
+Allocation to Reserves,6810,72700.30,72380,Expense
+Professional Management,6861,5595.96,5596,Expense
+Tax Preparation,6881,250,250,Expense
+Financial Review,6882,1700,1600,Expense
+Legal Fees,6901,7986.77,250,Expense
+Printing/Mgmt Extras,6911,2665.16,1300,Expense
+Reserve Repayment,6930,0,6600,Expense
+Reserve Study Update,6932,0,575,Expense
+
+Tree Spray/Trim Service,6126,1826.30,1500,Landscape
+Landscape Contract,6341,10079.6,9432,Landscape
+Landscape Supplies/Extras,6361,1358.16,950,Landscape
+Backflow Device Testing,6371,40,40,Landscape
+
+Electric,6121,690.78,1075,Utilities
+Water,6161,11917.22,11000,Utilities
+Sewer,6181,16742.07,13000,Utilities
+Trash,6241,3722.06,3750,Utilities

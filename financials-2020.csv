@@ -1,8 +1,11 @@
 Category,ID,Actual,Budget,Type
+Assessment,4001,137854.90,138279,Income
+Interest Earned,4200,754.52,0,Income
+Late Charges,4210,70.15,0,Income
 
 Insurance,6061,12982.26,11431,Expense
 Licenses & Fees,6081,75,75,Expense
-Website Expenses,6097,50,0,Expense
+Website Expense,6097,50,0,Expense
 Gutter/Downspout,6213,0,700,Expense
 Pest Control,6290,1325,1600,Expense
 Dryer Vent Cleaning,6297,2473,550,Expense
@@ -13,12 +16,14 @@ Professional Management,6861,5325.96,5326,Expense
 Tax Preparation,6881,250,250,Expense
 Financial Review,6882,2700,1150,Expense
 Legal Fees,6901,150,750,Expense
-Printing/Mgmt Extras,6911,1400.75,1200,Expense
+Printing & Mgmt Extras,6911,1400.75,1200,Expense
 Reserve Study Update,6932,520,520,Expense
+
 Tree Spray/Trim Service,6126,2000,750,Landscape
 Landscape Contract,6341,8838,8892,Landscape
 Landscape Supplies/Extras,6361,995.54,800,Landscape
 Backflow Device Testing,6371,40,35,Landscape
+
 Electric,6121,698.27,1300,Utilities
 Water,6161,9564.95,10000,Utilities
 Sewer,6181,14849.67,15000,Utilities
